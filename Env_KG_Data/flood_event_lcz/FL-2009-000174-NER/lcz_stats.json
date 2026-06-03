@@ -1,0 +1,25 @@
+{
+    "event_id": "FL-2009-000174-NER",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 29917
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 16,
+        "dominant_lcz_label": "Bare soil or sand",
+        "distribution": [
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 545,
+                "percentage": 1.82
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 29372,
+                "percentage": 98.18
+            }
+        ]
+    }
+}

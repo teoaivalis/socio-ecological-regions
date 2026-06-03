@@ -1,0 +1,79 @@
+{
+    "event_id": "FL-2009-000172-BFA",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 30647
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 6,
+        "dominant_lcz_label": "Open low-rise",
+        "distribution": [
+            {
+                "lcz_id": 3,
+                "lcz_label": "Compact low-rise",
+                "pixel_count": 4295,
+                "percentage": 14.01
+            },
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 7364,
+                "percentage": 24.03
+            },
+            {
+                "lcz_id": 7,
+                "lcz_label": "Lightweight low-rise",
+                "pixel_count": 1313,
+                "percentage": 4.28
+            },
+            {
+                "lcz_id": 8,
+                "lcz_label": "Large low-rise",
+                "pixel_count": 659,
+                "percentage": 2.15
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 4973,
+                "percentage": 16.23
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 403,
+                "percentage": 1.31
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 6252,
+                "percentage": 20.4
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 2692,
+                "percentage": 8.78
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 2,
+                "percentage": 0.01
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 2608,
+                "percentage": 8.51
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 86,
+                "percentage": 0.28
+            }
+        ]
+    }
+}

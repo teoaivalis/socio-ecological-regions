@@ -1,0 +1,25 @@
+{
+    "event_id": "FL-2008-000201-YEM",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 30157
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 16,
+        "dominant_lcz_label": "Bare soil or sand",
+        "distribution": [
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 13831,
+                "percentage": 45.86
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 16326,
+                "percentage": 54.14
+            }
+        ]
+    }
+}

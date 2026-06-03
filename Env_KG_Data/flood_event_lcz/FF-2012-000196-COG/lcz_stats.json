@@ -1,0 +1,37 @@
+{
+    "event_id": "FF-2012-000196-COG",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 31374
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 11,
+        "dominant_lcz_label": "Dense trees",
+        "distribution": [
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 28,
+                "percentage": 0.09
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 30867,
+                "percentage": 98.38
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 440,
+                "percentage": 1.4
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 39,
+                "percentage": 0.12
+            }
+        ]
+    }
+}

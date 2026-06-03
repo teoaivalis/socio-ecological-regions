@@ -1,0 +1,17 @@
+{
+    "event_id": "FL-2005-000017-VEN",
+    "processing_meta": {
+        "radius_km": 10,
+        "crs_used": "ESRI:54009",
+        "epoch_used": "2020/2025 Proxy"
+    },
+    "urban_morphology": {
+        "total_population_sum": 1089.3221141230315,
+        "avg_built_up_density": 0.0003089759190470091,
+        "avg_building_height_m": 0.000767514390189287,
+        "total_building_volume_m3": 241285.0,
+        "dominant_settlement_code": 11,
+        "dominant_settlement_label": "Very low density rural",
+        "dominant_morphological_zone": 0
+    }
+}

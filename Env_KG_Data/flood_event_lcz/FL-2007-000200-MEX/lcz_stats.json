@@ -1,0 +1,49 @@
+{
+    "event_id": "FL-2007-000200-MEX",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 28663
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 13,
+        "dominant_lcz_label": "Bush, scrub",
+        "distribution": [
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 401,
+                "percentage": 1.4
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 184,
+                "percentage": 0.64
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 17278,
+                "percentage": 60.28
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 8909,
+                "percentage": 31.08
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 1119,
+                "percentage": 3.9
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 772,
+                "percentage": 2.69
+            }
+        ]
+    }
+}

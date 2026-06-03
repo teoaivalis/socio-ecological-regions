@@ -1,0 +1,73 @@
+{
+    "event_id": "FL-2008-000230-CUB",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 29093
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 14,
+        "dominant_lcz_label": "Low plants",
+        "distribution": [
+            {
+                "lcz_id": 3,
+                "lcz_label": "Compact low-rise",
+                "pixel_count": 15,
+                "percentage": 0.05
+            },
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 593,
+                "percentage": 2.04
+            },
+            {
+                "lcz_id": 8,
+                "lcz_label": "Large low-rise",
+                "pixel_count": 123,
+                "percentage": 0.42
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 2818,
+                "percentage": 9.69
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 1165,
+                "percentage": 4.0
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 8563,
+                "percentage": 29.43
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 7,
+                "percentage": 0.02
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 15110,
+                "percentage": 51.94
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 10,
+                "percentage": 0.03
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 689,
+                "percentage": 2.37
+            }
+        ]
+    }
+}

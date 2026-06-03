@@ -1,0 +1,43 @@
+{
+    "event_id": "FF-2011-000071-GEO",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 23244
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 11,
+        "dominant_lcz_label": "Dense trees",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 17,
+                "percentage": 0.07
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 331,
+                "percentage": 1.42
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 16893,
+                "percentage": 72.68
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 4420,
+                "percentage": 19.02
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 1583,
+                "percentage": 6.81
+            }
+        ]
+    }
+}

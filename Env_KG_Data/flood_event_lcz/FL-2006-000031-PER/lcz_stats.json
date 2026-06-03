@@ -1,0 +1,67 @@
+{
+    "event_id": "FL-2006-000031-PER",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 30683
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 11,
+        "dominant_lcz_label": "Dense trees",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 50,
+                "percentage": 0.16
+            },
+            {
+                "lcz_id": 8,
+                "lcz_label": "Large low-rise",
+                "pixel_count": 1,
+                "percentage": 0.0
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 558,
+                "percentage": 1.82
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 25365,
+                "percentage": 82.67
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 4501,
+                "percentage": 14.67
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 15,
+                "percentage": 0.05
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 156,
+                "percentage": 0.51
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 33,
+                "percentage": 0.11
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 4,
+                "percentage": 0.01
+            }
+        ]
+    }
+}

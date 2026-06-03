@@ -1,0 +1,43 @@
+{
+    "event_id": "FF-2007-000185-TUN",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 25977
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 16,
+        "dominant_lcz_label": "Bare soil or sand",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 2,
+                "percentage": 0.01
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 329,
+                "percentage": 1.27
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 30,
+                "percentage": 0.12
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 3261,
+                "percentage": 12.55
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 22355,
+                "percentage": 86.06
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "event_id": "FL-2006-000029-NAM",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 29243
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 13,
+        "dominant_lcz_label": "Bush, scrub",
+        "distribution": [
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 25066,
+                "percentage": 85.72
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 4174,
+                "percentage": 14.27
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 3,
+                "percentage": 0.01
+            }
+        ]
+    }
+}

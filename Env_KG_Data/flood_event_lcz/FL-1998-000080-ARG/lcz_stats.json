@@ -1,0 +1,37 @@
+{
+    "event_id": "FL-1998-000080-ARG",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 25564
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 14,
+        "dominant_lcz_label": "Low plants",
+        "distribution": [
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 1,
+                "percentage": 0.0
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 1,
+                "percentage": 0.0
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 24364,
+                "percentage": 95.31
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 1198,
+                "percentage": 4.69
+            }
+        ]
+    }
+}

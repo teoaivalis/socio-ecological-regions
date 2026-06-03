@@ -1,0 +1,12 @@
+{
+    "event_id": "FL-2006-000027-IDN",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 0
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": null,
+        "dominant_lcz_label": "Unknown",
+        "distribution": []
+    }
+}

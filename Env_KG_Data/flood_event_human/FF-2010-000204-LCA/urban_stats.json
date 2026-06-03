@@ -1,0 +1,17 @@
+{
+    "event_id": "FF-2010-000204-LCA",
+    "processing_meta": {
+        "radius_km": 10,
+        "crs_used": "ESRI:54009",
+        "epoch_used": "2020/2025 Proxy"
+    },
+    "urban_morphology": {
+        "total_population_sum": 35729.80822920799,
+        "avg_built_up_density": 0.010784247200893009,
+        "avg_building_height_m": 0.032634294190716645,
+        "total_building_volume_m3": 10549083.0,
+        "dominant_settlement_code": 11,
+        "dominant_settlement_label": "Very low density rural",
+        "dominant_morphological_zone": 0
+    }
+}

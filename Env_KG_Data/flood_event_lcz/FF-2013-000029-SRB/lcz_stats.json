@@ -1,0 +1,55 @@
+{
+    "event_id": "FF-2013-000029-SRB",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 22468
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 14,
+        "dominant_lcz_label": "Low plants",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 38,
+                "percentage": 0.17
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 6002,
+                "percentage": 26.71
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 610,
+                "percentage": 2.71
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 7488,
+                "percentage": 33.33
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 3,
+                "percentage": 0.01
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 8320,
+                "percentage": 37.03
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 7,
+                "percentage": 0.03
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "event_id": "FF-2007-000070-CHN",
+    "processing_meta": {
+        "radius_km": 10,
+        "crs_used": "ESRI:54009",
+        "epoch_used": "2020/2025 Proxy"
+    },
+    "urban_morphology": {
+        "total_population_sum": 4853.951890714467,
+        "avg_built_up_density": 0.00026426063957682135,
+        "avg_building_height_m": 0.0005719795511387437,
+        "total_building_volume_m3": 137418.0,
+        "dominant_settlement_code": 11,
+        "dominant_settlement_label": "Very low density rural",
+        "dominant_morphological_zone": 0
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "FL-1997-000143-POL",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 19261
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 14,
+        "dominant_lcz_label": "Low plants",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 28,
+                "percentage": 0.15
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 731,
+                "percentage": 3.8
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 153,
+                "percentage": 0.79
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 380,
+                "percentage": 1.97
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 17968,
+                "percentage": 93.29
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 1,
+                "percentage": 0.01
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "event_id": "FL-1998-000359-UKR",
+    "processing_meta": {
+        "radius_km": 10,
+        "crs_used": "ESRI:54009",
+        "epoch_used": "2020/2025 Proxy"
+    },
+    "urban_morphology": {
+        "total_population_sum": 2214.26302119717,
+        "avg_built_up_density": 0.003063930366924289,
+        "avg_building_height_m": 0.007679380318261037,
+        "total_building_volume_m3": 1071579.0,
+        "dominant_settlement_code": 11,
+        "dominant_settlement_label": "Very low density rural",
+        "dominant_morphological_zone": 0
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "event_id": "FL-2004-000052-JPN",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 25243
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 11,
+        "dominant_lcz_label": "Dense trees",
+        "distribution": [
+            {
+                "lcz_id": 2,
+                "lcz_label": "Compact midrise",
+                "pixel_count": 4,
+                "percentage": 0.02
+            },
+            {
+                "lcz_id": 3,
+                "lcz_label": "Compact low-rise",
+                "pixel_count": 48,
+                "percentage": 0.19
+            },
+            {
+                "lcz_id": 5,
+                "lcz_label": "Open midrise",
+                "pixel_count": 23,
+                "percentage": 0.09
+            },
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 1712,
+                "percentage": 6.78
+            },
+            {
+                "lcz_id": 8,
+                "lcz_label": "Large low-rise",
+                "pixel_count": 41,
+                "percentage": 0.16
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 566,
+                "percentage": 2.24
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 19340,
+                "percentage": 76.62
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 1913,
+                "percentage": 7.58
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 270,
+                "percentage": 1.07
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 95,
+                "percentage": 0.38
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 1227,
+                "percentage": 4.86
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 2,
+                "percentage": 0.01
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 2,
+                "percentage": 0.01
+            }
+        ]
+    }
+}

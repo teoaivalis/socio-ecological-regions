@@ -1,0 +1,43 @@
+{
+    "event_id": "FL-1998-000048-PAK",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 27170
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 15,
+        "dominant_lcz_label": "Bare rock or paved",
+        "distribution": [
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 10,
+                "percentage": 0.04
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 1657,
+                "percentage": 6.1
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 1125,
+                "percentage": 4.14
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 21241,
+                "percentage": 78.18
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 3137,
+                "percentage": 11.55
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "event_id": "FF-2009-000229-SOM",
+    "processing_meta": {
+        "radius_km": 10,
+        "crs_used": "ESRI:54009",
+        "epoch_used": "2020/2025 Proxy"
+    },
+    "urban_morphology": {
+        "total_population_sum": 44.008330311626196,
+        "avg_built_up_density": 8.384062872419235e-06,
+        "avg_building_height_m": 2.107788185092352e-05,
+        "total_building_volume_m3": 6532.0,
+        "dominant_settlement_code": 11,
+        "dominant_settlement_label": "Very low density rural",
+        "dominant_morphological_zone": 0
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "event_id": "FL-2009-000176-MLI",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 29918
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 16,
+        "dominant_lcz_label": "Bare soil or sand",
+        "distribution": [
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 29918,
+                "percentage": 100.0
+            }
+        ]
+    }
+}

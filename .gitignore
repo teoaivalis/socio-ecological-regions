@@ -1,0 +1,8 @@
+# Ignore heavy Earth Observation rasters
+rasters/
+*.tif
+*.tiff
+# Ignore python caches and local variables
+__pycache__/
+*.npy
+.ipynb_checkpoints/

@@ -1,0 +1,73 @@
+{
+    "event_id": "FL-2005-000017-VEN",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 31297
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 11,
+        "dominant_lcz_label": "Dense trees",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 57,
+                "percentage": 0.18
+            },
+            {
+                "lcz_id": 8,
+                "lcz_label": "Large low-rise",
+                "pixel_count": 11,
+                "percentage": 0.04
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 7010,
+                "percentage": 22.4
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 10145,
+                "percentage": 32.42
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 6745,
+                "percentage": 21.55
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 57,
+                "percentage": 0.18
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 6181,
+                "percentage": 19.75
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 75,
+                "percentage": 0.24
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 61,
+                "percentage": 0.19
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 955,
+                "percentage": 3.05
+            }
+        ]
+    }
+}

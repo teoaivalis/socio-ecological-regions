@@ -1,0 +1,61 @@
+{
+    "event_id": "FL-2008-000217-KEN",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 31366
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 13,
+        "dominant_lcz_label": "Bush, scrub",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 177,
+                "percentage": 0.56
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 130,
+                "percentage": 0.41
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 618,
+                "percentage": 1.97
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 1304,
+                "percentage": 4.16
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 19326,
+                "percentage": 61.61
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 209,
+                "percentage": 0.67
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 2426,
+                "percentage": 7.73
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 7176,
+                "percentage": 22.88
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "event_id": "FL-2006-000070-IND",
+    "processing_meta": {
+        "radius_km": 10,
+        "total_pixels_analyzed": 28926
+    },
+    "lcz_profile": {
+        "dominant_lcz_id": 14,
+        "dominant_lcz_label": "Low plants",
+        "distribution": [
+            {
+                "lcz_id": 6,
+                "lcz_label": "Open low-rise",
+                "pixel_count": 408,
+                "percentage": 1.41
+            },
+            {
+                "lcz_id": 8,
+                "lcz_label": "Large low-rise",
+                "pixel_count": 3,
+                "percentage": 0.01
+            },
+            {
+                "lcz_id": 9,
+                "lcz_label": "Sparsely built",
+                "pixel_count": 1121,
+                "percentage": 3.88
+            },
+            {
+                "lcz_id": 11,
+                "lcz_label": "Dense trees",
+                "pixel_count": 10029,
+                "percentage": 34.67
+            },
+            {
+                "lcz_id": 12,
+                "lcz_label": "Scattered trees",
+                "pixel_count": 5462,
+                "percentage": 18.88
+            },
+            {
+                "lcz_id": 13,
+                "lcz_label": "Bush, scrub",
+                "pixel_count": 376,
+                "percentage": 1.3
+            },
+            {
+                "lcz_id": 14,
+                "lcz_label": "Low plants",
+                "pixel_count": 11032,
+                "percentage": 38.14
+            },
+            {
+                "lcz_id": 15,
+                "lcz_label": "Bare rock or paved",
+                "pixel_count": 274,
+                "percentage": 0.95
+            },
+            {
+                "lcz_id": 16,
+                "lcz_label": "Bare soil or sand",
+                "pixel_count": 197,
+                "percentage": 0.68
+            },
+            {
+                "lcz_id": 17,
+                "lcz_label": "Water",
+                "pixel_count": 24,
+                "percentage": 0.08
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "event_id": "FL-2015-000039-KAZ",
+    "processing_meta": {
+        "radius_km": 10,
+        "crs_used": "ESRI:54009",
+        "epoch_used": "2020/2025 Proxy"
+    },
+    "urban_morphology": {
+        "total_population_sum": 45.73823534697294,
+        "avg_built_up_density": 7.235597592433361e-05,
+        "avg_building_height_m": 0.00017902032117441823,
+        "total_building_volume_m3": 25255.0,
+        "dominant_settlement_code": 11,
+        "dominant_settlement_label": "Very low density rural",
+        "dominant_morphological_zone": 0
+    }
+}
