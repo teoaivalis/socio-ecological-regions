@@ -1,4 +1,4 @@
-# Regional Grounding of AI Weather Predictions for Historical Analog Retrieval
+# Retrieval and Re-ranking of Weather Analogues Using a Multi-Layered Environmental Knowledge Graph
 
 This repository contains the official implementation, architecture schemas, and evaluation pipelines for anchoring global, data-driven weather foundation models into high-resolution local environmental contexts using a dual-space grounding framework.
 
@@ -6,7 +6,7 @@ This repository contains the official implementation, architecture schemas, and 
 
 ## Overview
 
-Data-driven weather forecasting models offer improved efficiency but function as black boxes ungrounded in localized environmental contexts. Because counterfactual retraining on global weather architectures is computationally prohibitive, evaluating localized data influence and physical consistency remains a significant challenge. To resolve this resolution and semantic gap, we implement a dual-space grounding framework that aligns continuous atmospheric latent spaces with discrete environmental domain knowledge. We evaluate a multi-axis Environmental Knowledge Graph that anchors dense taxonomic biodiversity, urban morphology, and physical land-cover layers directly into regional disaster hubs. Continuous planetary states are compressed using multi-level encoder configurations trained on ERA5 data, while discrete topological properties are mapped using structured graph representation learning layers. Through a systematic ablation study across multiple graph projections, we quantify the specific impacts of individual environmental variables on regional fidelity. The evaluation demonstrates that the framework successfully filters out geographically proximal but ecologically divergent matches, replacing them with out-of-region historical analogs that elevate average taxonomic similarity. Finally, a systematic analysis of cross-border retrieval patterns reveals that the pipeline maps continuous physical geography into consistent socio-environmental biomes. This work establishes a verifiable physical grounding layer to validate data-driven weather forecasts against localized environmental footprints.
+Data-driven weather forecasting models offer improved computational efficiency but operate as black boxes ungrounded in localised environmental contexts. Because counterfactual retraining on global weather architectures is computationally prohibitive, evaluating localised historical contexts and cross-variable consistency remains a significant challenge. To address this resolution and semantic gap, we implement a dual-space retrieval and re-ranking framework that aligns continuous atmospheric latent spaces with discrete environmental domain knowledge. We evaluate a multi-axis Environmental Knowledge Graph that maps taxonomic biodiversity, urban morphology, and physical land-cover layers relative to regional disaster event coordinates. Continuous planetary states are compressed using multi-level encoder configurations trained on ERA5 data, while discrete topological properties are mapped using structured graph representation learning layers to compute a heuristic contextual re-ranking boost. Through a systematic ablation study across multiple graph projections, we quantify the specific impacts of individual environmental variables on regional fidelity. The evaluation demonstrates that the framework successfully filters out geographically proximal but ecologically divergent baseline matches, replacing them with out-of-region historical analogs that elevate average taxonomic similarity. Finally, a systematic analysis of cross-border retrieval patterns reveals that the pipeline maps continuous physical geography into consistent socio-environmental biomes. This work establishes a workflow to quantify the environmental and structural consistency of historical analogs retrieved alongside data-driven weather predictions.
 
 ---
 
@@ -30,15 +30,3 @@ The multi-axis regional footprints, topological connectivity matrices, and socio
 👉 **[Socio-Ecological Regions Dataset on Hugging Face Hub](https://huggingface.co/datasets/teoaivalis/socio-ecological-regions)**
 
 ---
-
-## Repository Structure
-
-```text
-├── data/                  # Placeholder for data caching configurations
-├── figures/               # Architecture diagrams and learning curves
-│   └── framework_overview.png
-├── models/                # 2D and 3D Atmospheric Autoencoders
-├── graph/                 # Node2Vec projection scripts and Neo4j queries
-├── notebooks/             # Evaluation and rank-shifting analysis examples
-├── README.md
-└── requirements.txt
